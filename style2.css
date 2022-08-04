@@ -1,0 +1,43 @@
+*{
+   margin: 0%;
+   padding: 0%;
+}
+
+body{
+    background-color: gray;
+    height: 100vh;
+    position: relative;
+}
+.superior1{
+    background-color: black;
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    margin: 0%;
+}
+
+.superior2{
+    background-color: black;
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    right: 0%;
+}
+
+.inferior1{
+    background-color: black;
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    bottom: 0%;
+    
+}
+
+.inferior2{
+    background-color: black;
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    bottom: 0%;
+    right: 0%;
+}

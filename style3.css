@@ -1,0 +1,36 @@
+*{
+    margin: 0%;
+    padding: 0%;
+ }
+
+body{
+    right: 20vh;
+    background-color: gray;
+    height: 100vh;
+    width: 50vh;
+}
+
+.div1{
+    left: 30%;
+    width: 80vh;
+    height: 15vh;
+    position: absolute;
+    top: 20vh;
+    color: white;
+    background-color: black;
+    border-radius: 12px;
+    padding: 15px;
+  
+}
+
+.div2{
+    left: 30%;
+    width: 80vh;
+    bottom: 35vh;
+    height: 15vh;
+    position: absolute;
+    color: white;
+    background-color: black;
+    border: 2px solid red;
+    padding: 15px;
+}

@@ -1,0 +1,112 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: gray;
+  height: 100vh;
+  position: relative;
+}
+
+.divA {
+  /* DivTop */
+  position: absolute;
+  width: 150px;
+  height: 150px;
+  background-color: black;
+  margin: 0%;
+}
+.divB {
+  position: absolute;
+  background-color: black;
+  width: 150px;
+  height: 150px;
+  left: 16vh;
+}
+.divC {
+  position: absolute;
+  background-color: black;
+  width: 150px;
+  height: 150px;
+  left: 32vh;
+}
+.divD {
+  position: absolute;
+  width: 150px;
+  height: 150px;
+  background-color: black;
+  top: 16vh;
+}
+.divE {
+  position: absolute;
+  width: 150px;
+  height: 150px;
+  background-color: black;
+  top: 32vh;
+}
+.divF {
+  position: absolute;
+  width: 150px;
+  height: 150px;
+  background-color: black;
+  top: 16vh;
+  left: 16vh;
+}
+.div1 {
+  /* DivBottom */
+  position: absolute;
+  width: 150px;
+  height: 150px;
+  background-color: black;
+  bottom: 0%;
+  right: 0%;
+}
+.div2 {
+  position: absolute;
+  width: 150px;
+  height: 150px;
+  background-color: black;
+  bottom: 0%;
+  right: 16vh;
+}
+.div3 {
+  position: absolute;
+  width: 150px;
+  height: 150px;
+  background-color: black;
+  bottom: 0%;
+  right: 32vh;
+}
+.div3 {
+  position: absolute;
+  width: 150px;
+  height: 150px;
+  background-color: black;
+  bottom: 16vh;
+  right: 0%;
+}
+.div4 {
+  position: absolute;
+  width: 150px;
+  height: 150px;
+  background-color: black;
+  bottom: 32vh;
+  right: 0%;
+}
+.div5 {
+  position: absolute;
+  width: 150px;
+  height: 150px;
+  background-color: black;
+  bottom: 0%;
+  right: 32vh;
+}
+.div6 {
+  position: absolute;
+  width: 150px;
+  height: 150px;
+  background-color: black;
+  bottom: 16vh;
+  right: 16vh;
+}
